@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">買い物リスト</string>
+    <string name="add">追加</string>
+    <string name="delete">削除</string>
+    <string name="keep">保存</string>
+    <string name="sort">並べ替え</string>
+
+<!--    <string-array name="genreArray">-->
+<!--        <item>野菜</item>-->
+<!--        <item>肉類</item>-->
+<!--        <item>魚介類</item>-->
+<!--        <item>乳製品</item>-->
+<!--        <item>調味料</item>-->
+<!--        <item>日用品</item>-->
+<!--        <item>飲み物</item>-->
+<!--    </string-array>-->
+
+    <string name="genre0">野菜</string>
+    <string name="genre1">肉類</string>
+    <string name="genre2">魚介類</string>
+    <string name="genre3">乳製品</string>
+    <string name="genre4">調味料</string>
+    <string name="genre5">日用品</string>
+    <string name="genre6">飲み物</string>
+    <string name="genre7">お菓子</string>
+    <string name="genre8">冷凍食品</string>
+
+    <string name="memo">メモ</string>
+</resources>
